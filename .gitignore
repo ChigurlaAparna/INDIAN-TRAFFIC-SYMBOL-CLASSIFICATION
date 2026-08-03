@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+saved_model/
+saved_model.zip
+
+vgg16_best.keras
+
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
